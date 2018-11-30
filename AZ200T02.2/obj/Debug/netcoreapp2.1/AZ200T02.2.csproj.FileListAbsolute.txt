@@ -1,0 +1,8 @@
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\bin\Debug\netcoreapp2.1\AZ200T02.2.deps.json
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\bin\Debug\netcoreapp2.1\AZ200T02.2.runtimeconfig.json
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\bin\Debug\netcoreapp2.1\AZ200T02.2.runtimeconfig.dev.json
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\bin\Debug\netcoreapp2.1\AZ200T02.2.dll
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\obj\Debug\netcoreapp2.1\AZ200T02.2.csprojAssemblyReference.cache
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\obj\Debug\netcoreapp2.1\AZ200T02.2.csproj.CoreCompileInputs.cache
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\obj\Debug\netcoreapp2.1\AZ200T02.2.AssemblyInfoInputs.cache
+D:\Courses\NewAzure\Demos\AZ200\AZ200T02.2\obj\Debug\netcoreapp2.1\AZ200T02.2.AssemblyInfo.cs

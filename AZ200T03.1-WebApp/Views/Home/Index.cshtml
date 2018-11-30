@@ -1,0 +1,46 @@
+﻿@model AZ200T03._1_WebApp.Models.Student
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Add a student</h2>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input type="text" class="form-control" id="studentName" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-default" id="newStudent" />
+            </div>
+            <div id="status"></div>
+        </div>
+        <div class="col-md-8">
+            <h2>Student List</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            ID
+                        </th>
+                        <th>
+                            Student
+                        </th>
+                        <th>
+                            Enrolled
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="studentList">
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+</div>

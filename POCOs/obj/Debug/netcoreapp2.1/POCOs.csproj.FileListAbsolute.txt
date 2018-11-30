@@ -1,0 +1,9 @@
+D:\Courses\NewAzure\Demos\AZ200\POCOs\bin\Debug\netcoreapp2.1\POCOs.deps.json
+D:\Courses\NewAzure\Demos\AZ200\POCOs\bin\Debug\netcoreapp2.1\POCOs.dll
+D:\Courses\NewAzure\Demos\AZ200\POCOs\bin\Debug\netcoreapp2.1\POCOs.pdb
+D:\Courses\NewAzure\Demos\AZ200\POCOs\obj\Debug\netcoreapp2.1\POCOs.csprojAssemblyReference.cache
+D:\Courses\NewAzure\Demos\AZ200\POCOs\obj\Debug\netcoreapp2.1\POCOs.csproj.CoreCompileInputs.cache
+D:\Courses\NewAzure\Demos\AZ200\POCOs\obj\Debug\netcoreapp2.1\POCOs.AssemblyInfoInputs.cache
+D:\Courses\NewAzure\Demos\AZ200\POCOs\obj\Debug\netcoreapp2.1\POCOs.AssemblyInfo.cs
+D:\Courses\NewAzure\Demos\AZ200\POCOs\obj\Debug\netcoreapp2.1\POCOs.dll
+D:\Courses\NewAzure\Demos\AZ200\POCOs\obj\Debug\netcoreapp2.1\POCOs.pdb

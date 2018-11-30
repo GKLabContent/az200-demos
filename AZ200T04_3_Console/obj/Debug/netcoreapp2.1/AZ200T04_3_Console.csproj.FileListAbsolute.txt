@@ -1,0 +1,11 @@
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\bin\Debug\netcoreapp2.1\AZ200T04_3_Console.deps.json
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\bin\Debug\netcoreapp2.1\AZ200T04_3_Console.runtimeconfig.json
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\bin\Debug\netcoreapp2.1\AZ200T04_3_Console.runtimeconfig.dev.json
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\bin\Debug\netcoreapp2.1\AZ200T04_3_Console.dll
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\bin\Debug\netcoreapp2.1\AZ200T04_3_Console.pdb
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\obj\Debug\netcoreapp2.1\AZ200T04_3_Console.csprojAssemblyReference.cache
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\obj\Debug\netcoreapp2.1\AZ200T04_3_Console.csproj.CoreCompileInputs.cache
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\obj\Debug\netcoreapp2.1\AZ200T04_3_Console.AssemblyInfoInputs.cache
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\obj\Debug\netcoreapp2.1\AZ200T04_3_Console.AssemblyInfo.cs
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\obj\Debug\netcoreapp2.1\AZ200T04_3_Console.dll
+D:\Courses\NewAzure\Demos\AZ200\AZ200T04_3_Console\obj\Debug\netcoreapp2.1\AZ200T04_3_Console.pdb
